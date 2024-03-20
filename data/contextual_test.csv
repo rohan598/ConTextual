@@ -1,0 +1,513 @@
+image_url,instruction,category
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/Customizable-Analog-Alarm-Clock-with-jQuery-Canvas-thooClock.jpg,"What time is shown on the clock in hours, minutes, or seconds?",time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/original-3218770-1.jpg,Give the exact steps to change the time to 10:33.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/screenshot-clock-iphone4.png,Describe the distinctive feature of this clock.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/unnamed.png,Can you help with the time shown on this clock?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/5b368b15cc51388a82dcb07b930f60a3250x250.jpg,Highlight the color of the garment pointed by the minute hand 10 minutes from the depicted time.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/thb_8411.jpg,Provide the time displayed on this clock.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/binary-clock-numbers-10017.jpg,Ascertain the time on this clock.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/75007b5c9b7545840465070401b948b5f4d079b8-175x175.jpeg,Examine the characteristics that set this clock apart from the ordinary.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/mgu02-2-300x300.jpg,"How long has it been since the ""food dream"" occurred?",time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/1603517769_398.jpg,Describe the illustrated action.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/0545-military-time.png,When will the hour and minute hands next be directly opposite each other?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/clock%2B_281_29.png,How much time remains until the hour and minute hands align?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/clock.png,Estimate the time using the drawn numbers as the precise positions on the clock face.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/0610_b01.png,Forecast the time by assuming the pendulum rod as the minute hand.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/post_5c091f5988629-695x522.jpg,What time is the sun dial indicating?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/ora_4_3_madata_542872586.jpg,Calculate the time difference between the right clock in AM and the left clock in PM.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/clock_clock2.jpg,Explain how clocks have been employed to symbolize a pair of numerical digits.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/wall-clocks-10390839.jpg,Identify the unique pattern represented by the clocks.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/4244041947.jpg,Decide whether it's the local time or the time in London that aligns more closely with the time in Los Angeles.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/3499ceeba038dd7a41414b770fb4796c--clock-wall-wall-art.jpg,Identify the clock with the closest time to the digital clock.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/juggling_clocks-350-204x300.jpg,Locate the positions of the three stopwatch hands in the displayed image.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/clk.jpg,"What is the time across all cities shown in this image, assuming it is evening in Tokyo?",time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/L_11574.jpg,Comment whether the analog clocks are correctly matched to the digital clocks.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/assorted-clocks-white-background-17327434.jpg,Point out the colors of the clocks with the numeric dial.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/Time-Zones-1-300x300.jpg,"Specify the time and color of the clocks in the image, organized according to the alphabetical order of the city names associated with each clock.",time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/original-2563140-4.jpg,Identify the object on the dial that shows the time 10:10.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/news_photo_33641b913ccd228a6f23ac7009d50713-864x411_c.jpg,Find the clock and its time where the hour and minute hands form a right angle.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/5457663.jpg,Compute the total of the numbers indicated by the hour hand on all the displayed clocks.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/screen-shot-2015-09-13-at-3-33-20-pm1.png,Group and list the remaining activities of the month by color.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/a5300ae292e358ffa1f22691502bd5e5.png,Count the number of times an individual has to perform a compound head and leg movement exercise in a month.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/calendar.jpg,Explain the idea behind using a color scheme for the different numbers in the calendar.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/Period-Calendar.png,Identify the ticked dates.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/201608010959570bf.jpg,Which week has the most number of circles?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/2221211_138597036301_234x360.jpg,When is the birthday this month?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/unnamed-2.png,Mark out the dates stamped with the happy or smiling emoji.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/2016December.jpg,What visually sets apart the dates 23rd and 30th?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/2016061918305717d.jpg,Spot the days that fall between the left ear of the dog on the left and the right ear of the dog on the right.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/2013-calendar_thumb5.jpg,Discern the months demonstrated with animal figures.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/calendar-2014-funky-floral-web1.jpg,"How are January, February, and July related?",time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/2015-Calendar-A4-Paper-4Seasons-002.png,Count the number of flowers shown in spring.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/maya_road_calendar_24_edit.jpg,Capture the relation between the theme and the visible and concealed sequence of items.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/image14.png,How much time an individual will be spending on events this week?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/alarma-10-1.jpg,Enumerate the times for which the alarm has been turned off.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/160_F_61708903_Di6poy1ghI539pZSDARhtHD5ZtjywiLz.jpg,Detect the emphasized todo task.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/IMG_20210623_081749-600x600.jpg,Which name is the seconds hand pointing to?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/time-timer-digibord1.png,How much time is left before the timer finishes?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/858b4ebcd6e5b06b6ce3178f004bcb4e12540.jpg,"Estimate the time the left watch is ahead of the right watch, considering both show times after noon.",time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/HiRes-492x348-150x150.jpg,Which number does the green person replace?,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/unnamed-3.jpeg,Determine the time period represented by the pie chart.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/time-images/392x696bb.png,Contrast the visualization of the first and last pick-up in this image.,time
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/1600px-16_Pike_Place_Market_greengrocer_vegetable_display.jpg,List the prices of other varieties of the yellow vegetable.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/15980751236_e8725e3b96_b.jpg,How much is the cost of making pasta that requires 4 pounds of tomatoes?,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/plaskie-ukladanie-skladnikow-zywnosci-z-warzywami_23-2148834702.png,What are items missing from the recipe list?,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/13396832753_25011ea882_b.jpg,Select the most popular cereal amongst the ones displayed.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Digital_price_tags__285004089790_29.jpg,"Calculate the quantity of Sahnebonbons one can buy with a budget of $2.
+",shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/50844524236_f5476beb66_b.jpg,Determine the cost of two cans of red cherries to make a black forest cake.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Quorn-Cottage-Pie-Ingredients-3.jpg,Itemize the vegetables that have been diced.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/screen480x480.jpeg,Identify the missing ingredients.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/nieuwe-witte-meubels-met-prijzen-op-licht_392895-23496.jpg,Pinpoint the item that is close to 110 dollars.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/screen-2.jpg,Give details of the slatted table.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/040109875_w_02_18.jpg,Describe the measurements of the sofa that offers the most spacious seating area.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/46426ac7-1949-4f86-b2af-bc041f768a96.jpg,Provide the price of the upholstered dining set.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/screen-shot-2017-10-19-at-12-49-38-am.png,Describe the most similar product between the living room and the hip living room.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/more%2Bsmall%2Bto%2Bmedium%2Bliving%2Broom%2Blayouts.jpg,"Determine the objects that can be seen entirely or partially in the image labeled as ""west elm"" in the context of the provided guidelines for this seating arrangement.
+",shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/m005755221_sc7.png,Can a person push a chair with a fixed armrest height of 75cm into the depicted desk?,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/boots1.jpg,Provide details of the cheapest brown boots.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/unnamed-6-1.jpg,"Calculate the total cost of assembling an outfit consisting of a white dress, heeled sandals, and sunglasses.",shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/depositphotos_57934837-stock-illustration-vector-illustration-with-sale-of.jpg,Describe the apparel that has a 25% discount.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/0b4d3dc00063f9c38fadcce46c21848b.jpg,Estimate the projected shopping expenditure when an individual needs to purchase an orange outfit along with brown boots from the showcased options.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/airport-tshirts.jpg,Detail the shirts that are representative of locations in Europe.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/1508168a4d477e8.jpg,Calculate the total cost of buying an item from the first and last rack.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/14-t-shirt-2.jpg,Estimate the percentage of the section in red to the cost of the consumer.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/th.jpeg,Spot the item with bunny ears.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/047da3_93e3757199624aaaa39bf689aab7b4e2~mv2_d_1473_2419_s_2.jpg,Locate and name the scary pumpkin Halloween t-shirt amongst the ones shown.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Touch-screen-vending-machine-990x731.jpg,Pick out the item the person is adding to the shopping cart.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/ZenPop-Stationery-February-2019-Box-All-733x537.jpg,How is the tree visible in the image attractive?,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Infographic_2_Cat_CAN.jpg,Give a price estimate for the category represented by the object situated beside the cat.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/royal-pet-shop-saidapet-chennai-pet-shops-11oy2c5imw.jpg,List the dog food item brannd(s) that feature a breed on their packaging that closely matches the dog(s) depicted in the broader advertisement.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Transparent-Pricing-1-768x1024.png,How is the truck graphic related to the bicycle graphic?,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/13-chi-phi-an-6.jpg,Calculate the maximum money the tour guide can make from the tourists shown in this image.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Fig04.06energyguidelabelfull.png,Approximate the difference between the predicted yearly operating cost and the average. ,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/The-Best-Smartphones-Under-150-Infographic.jpg,Detail the phone with the largest battery life.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Mac_2Bvs_2BPC_2B-_2BWhich_2BIs_2BBetter__2B2-21_2Bscreenshot.png,List the computer(s) with the most number of dollar bill icons associated with it.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Duty-Free-Price-Headphones-Heathrow-London-Atlanta-Airport-Shopping-2.jpg,Enumerate all items priced at nearly 130 pounds.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/article-2738082-20E7BB1600000578-394_636x579.jpg,Comment whether the vertically positioned blue and purple colored vacuum cleaners belong to the same brand.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/10efdd15198bd48eda95422aded36a4d.jpg,Discuss the features of a camera being held vertically with a single hand.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Hire-Best-Washing-Machine-Repair-In-Kamothe-20200108144710.jpg,Provide the cost of hiring the machine type depicted in the image for nine months.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/hoc-ngay-bi-quyet-giat-quan-ao-cua-cac-nhan-vien-giat-la-khach-san-5-sao-cach1.jpg,Explain the significance of the infographic in the context of the illustrated machine.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/2cuUGtS.jpg,Which item has the white pad affiliated with it?,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/2-Years-Pricebook-Infographic-page-003-buattokoonline.id_4.jpg,Mention the different uses of the generic smartphone icon in this advertisement.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/WSa014974.jpg,Give the final price of the most discounted tablet.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/Best-of-diaper-rash-cream-2020-pin_qzydvp.jpg,Which diaper rash cream shows a child lying on their side?,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/featured-image-soap-packaging.jpg,Elaborate on the common theme demonstrated in this image.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/images.jpeg,Spot the product whose top view has been shown.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/soldesparfums.jpg,Provide more information about the perfume with a flower cap.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/36133448846_2d7865766d_o.jpg,Pick out a makeup item with the most similar function to the one represented as a pencil.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/10-natural-hair-products-under-10.png,Detail the hair product with a spray dispenser.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/image_1024x1024.png,Elaborate on the razor with its blade edge facing the viewer.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/61t7ovXD4gL._SY879_.jpg,Outline the steps for assembling a digital permanent makeup machine for use.,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/shopping-images/dupe-list-prices.jpg,What is the purpose of the arrows in this illustration?,shopping
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/STREET_SIGN1_8-17-17_copy.max-752x423.jpg,"Determine the street on which a traveler is located, given that they stop before the stop sign.",navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/20141226-IMG_3279.jpg,List another rule a person needs to follow if they can go straight when all other vehicles have to turn right.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/large_JPEG_2020_12_29_08_03_24_843_.jpg,Recognize the street name without the tiger graphic next to it.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/unnamed.jpg,Name the route and endpoint reached by continuing in a straight line.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/IMG_20160218_193338.jpg,Make a list of all the signs demonstrating a bird.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/0410c76e2690a668909f2772a5a9442d.jpg,Enlist the non-quadrilateral signs.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/12104_20Begin_20US_20Route_201_20North_2C_20Key_20West_2C_20FL_20IMG_2053-X2.jpg,Enumerate the signs with a road graphic on them.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/00011427_medium.jpeg,Can you fill in the details for the street sign with no text explaining it?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/8140594528_08c0903ddf_m.jpg,Estimate the angle between the street signs Foley and Duane.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/3ed819844076a5ba8859b56e8ba3e3cb.jpg,What are the different arrows pointing to?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/b5683fd2f541746010b42d35b233dd08--parking-space-plein.jpg,How is the illustrated signage unique?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/safety-signs1.jpg,Determine the triangular-shaped signs.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/images.jpeg,Recognize and expand on the message being conveyed by the image.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/unnamed-2.jpeg,Guess the place the car might reach if it follows the purple path.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/drive-dollars-med.png,Discern the symbol that resembles the layout of the road.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/300px-Quebec_exit_number.jpg,Predict where the red vehicle is heading.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/ff710b2cd285ae6d2737f1d17baa46e9--sign-on-editorial-photography.jpg,How much toll will a person driving an SUV pay?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/Logan_GettyImages-683709352.jpg,Itemize the destinations and exits one can take while driving on the left. ,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/i-376-e-at-i-279-2-480x356.jpg,Indicate which traffic signs the silver-colored vehicle is not required to obey.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/5d5546802400009301b85249.jpeg,Provide details about the vehicle's color and type that is positioned in the same lane directly behind the truck displaying a red letter on its rear.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/2281920801_46908d67e3.jpg,"Extract the letters in the words ""Bus Stop"" that fall between the wheels of the bus logo drawn above it.",navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/Diwali_2BBus_2B-_2BPoonamallee.jpg,Pinpoint the text written in the same color as that of the bus headlight.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/356053d1274895956t-city-buses-various-stus-all-over-india-image002.jpg,Mention the role of people in the advertisement in the context of the slogan.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/External%2BRoute%2BAnnouncements.jpg,Find all symbolic elements that guarantee equal access to bus services for everyone on bus number 854.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/00299332.jpg,What can be seen on the bus moving away from the observer within the image's context?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/bus3.jpg,Explain the role of the human figure silhouette within the broader context of the advertisement.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/797049.jpg,What is unique about this image?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/Route-dag-5.jpg,Guess the number whose mirror image along the vertical axis is charted out by the highlighted path.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/ss_aa6f996822d564a0d29c89e241eca4f20953f704.1920x1080.jpg,"Among these buses, each representing a different country, which one doesn't explicitly mention the name of its respective country?",navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/hlW7almtwookQ7cbkv_0pjl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9.jpeg,Comment on the design of the illustrated adverstisment.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/metro.png,Provide details about the illustration made on the doors of the train.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/metro.jpg,Where is the subway map located?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/passenger-car.jpg,List the items located immediately above the single seats.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/51uEJ5husgL.jpg,Guess the part of the train illustrated with the named sticker.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/rail-network-proposed-1024x889.png,Identify the penultimate station on the East-West Rail route from East Anglia to Oxford line (when traveling towards Bedford) that is visible on the map.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/delhi-metro-ph2-route-map-05.jpg,"Count the number of stations between the station at the intersection of yellow & blue lines and Noida City Center, excluding them.",navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/slide_8.jpg,Contextualize the the diagram with respect to the image.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/Duck-and-his-liveries-thomas-the-tank-engine-39546632-300-214.png,Elaborate on the depiction of two-side trains.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/51P8MyJAANL._SL250_.jpg,Answer the question asked in the image.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/image-13.jpg,Comment whether the question posed in the image is answered correctly.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/germany-baden-wurttemberg-stuttgart-arrival-departure-board-in-airport-WDF001232.jpg,Determine the departure destinations of the flights that have landed.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/istockphoto-504828018-612x612.jpg,List all the places that are situated in the same direction as the escalator's location,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/safety-instructions-airplane-audio-2.jpg,When should a person fold the tray table?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/fingermind-airline-slider-11-845x684.jpg,Pick out the airlines immediately in front and behind the one featuring a flying bird in yellow and blue.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/airport-DW-Hamburg-Hamburg.jpg,Point out the airlines with names displayed in either blue or orange.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/img_0878.jpg,Group gates by direction.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/airport-signage-260nw-1449314.jpg,Match the two plane symbol with its corresponding description.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/casino_aeroport_bis.jpeg,What is distinctive about this luggage claim belt?,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/flights-and-airlines.jpg,Compile a list of all airlines that incorporate an animal motif into their logo design.,navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/navigation-images/102_space.jpeg,"Specify the colors of the rocket, space shuttle, and external tank.",navigation-transportation
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/Metro_airplane-1.jpg,Remark on the irony depicted in this image.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/What-People-See-DC119-600x791.jpg,How does the viewpoint regarding the emphasized object vary between the speaker and the rest of the people?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/46cgvw.jpg,What is the image trying to convey?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/2296_1900010_740776962621758_20894017_N_-_CrQu80_RT458x632-_OS458x632-_RD458x632-.jpg,Contextualize the saying with the visual contents of the image. ,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/pi-irrational.jpg,What real-life situation is anthropomorphized in the image?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/pi.jpg,"
+Describe how the term 'Mind Blown' applies to this meme.",abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/game-sunset-match.jpg,Compare the perspective of the bugs in the scene with that of an external observer.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/8c50c824740d179d24db15aede8b8e57.jpg,Comment on the pun shown in the image.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/kbl4bqmjxed41-400x710.jpg,Expound the illustrated visual similie.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/22-the-ever-releable-abacus.jpg,How is object related to its thought?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/image.jpeg,Identify a common proverb portrayed in this image.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/144382987304418e9313a0e9e74d506c.jpg,"What is the relationship between the symbols corresponding to numbers 1, 2, and 4?",abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/d.jpeg,"Based on the task depicted in the picture, identify a type of nut that would be consistent with the it.",abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/120710_2226_Amusingexam5.jpg,Why did the individual receive a score of zero?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/5917681_700b.jpg,How is the pun illustrated in this context?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/the_best_of_comics_19.jpg,How is the initial thought of the character conveyed through the comic?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/chown-chmod-2.png,"
+How does the visual representation in the image assist in explaining the programming concepts that are referenced?",abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/this-is-the-funniest-thing-i-have-ever-seen-if-were-a-professor-i-would-pin-this-to-my-office-door.jpeg,Comment on the funny aspect of the comic strip.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/dbc8adf7262df17f35291984912744a0.jpg,"Provide evidence for the observation presented in this image.
+",abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/peanuts-trademark.jpg,Summarize the story illustrated in the comic.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/bsos-01-big-520x400.jpg,Why does the image present two contrasting situations?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/how-to-leave-work-at-work-and-avoid-working-weekends-2.jpg,Elaborate on the jist of the image.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/waste-time-comic.jpg,Comment on the essence conveyed by the comic strip.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/Toilette-und-Smartphone.jpg,Explain the idea conveyed by the symbols and text.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/mordor-hot-cold-arctic-ocean.jpg,Elucidate the person's comment about their shower.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/london-underground-10-728.jpg,In what way do visual components enhance the statement provided at the bottom of the image?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/funny-small-barrier-get-in1.jpg,Can you explain the comedic element of this image?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/bdd97d2847739d0dbcd534da89969a08--engineering-humor-civil-engineering.jpg,Describe how the image compares the two subjects.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/KHodor.png,What does the sticky note signify?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/gs.jpg,Comment whether the imperative statement in the image is valid or not.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/funny-little-deer-head-bill.jpg,Elucidate the statement contained in the image.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/591773_m.jpg,Comment on the unusual aspect of this scene.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/QbHL0u2_3EKw-po8vAXJLg2.jpg,Connect the text in the image to the image's context.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/b2039c3348db08bf1e5ad266f5a8d240.jpg,Discover the comedic touch from the illustration.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/download.jpeg,Explain the irony in the context of this image.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/3a2f4726aac1c02e333410e39899165c.jpg,Elaborate on the significance of the text as it relates to the image's content.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/go-ahead-you-can-make-it-77612.jpg,How does the street sign use humor to alert about a serious situation?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/42f25889032e83256ff83b6656fee5cf--funny-stuff-funny-things.jpg,Explicate the comical aspect of the sign.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/150988377-street-sign-the-direction-way-to-pleasant-versus-awful.jpg,Discuss the associations brought to mind by the road signs.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/Honey-look-the-mouse-trap-work-Cop-Meme.jpg,Why is this image amusing?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/BeFunky-collage-2021-02-22T095132.874-1192x1536-1-543x700.jpg,"Who has too much time, and how is it shown?",abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/download-2.jpeg,How has keeping the streets clean been incentivized? ,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/there-i-fixed-it-this-diet-sucks.jpeg,Evaluate whether the description on an object's packaging accurately represents it.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/redneck-coffee-table.jpg,Justify the statement presented in the image.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/96efd310-9809-4e1b-b2a9-eac166aa8adc.jpeg,Describe how the image humorously portrays a routine task.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/597c86bcc63ff.jpeg,Detail how the lower half of the image is employed to contradict the claims made in the news article.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/107d880361044765290eafdf93171755.jpg,How does the use of an analogy help in illustrating the situation?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/CR_953559_502758d82b8048e28acc42ece7a8b5a0_cuando_hay_recortes.jpg,Share your thoughts on the comical element of this picture.,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/4c8995.jpg,In what way does the series of images reinforce the cliffhanger conclusion presented in the text?,abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/abstract_images/bmw-windows-sm.jpg,"
+What makes the advertisement clever or intelligent?",abstract
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/67962.jpg,List the exercises where the corresponding illustration showcases a single movement.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/62403.jpg,Describe the characters shown on the cover of the game that achieves second highest rating.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/65393.jpg,Suggest the weather report for the day which does not have any presenter in the corresponding video thumbnail.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/30386.jpg,Elaborate on the design of the logo of 105.1 FM,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/37204.jpg,Identify the symbol that stands out and its respective feature name.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/39201.jpg,Rank the digital items in the descending order of their breadth.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/62985.jpg,"Provide the outline of the company logo which is below the company ""vimeo"".",app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/4216.jpg,Count the number of stars on the 40inch TV.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/15528.jpg,"Highlight the difference between the UI design of the two instances of the word ""background"" in the screenshot.",app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/66868.jpg,Mention the app features that are selected and the features that are not selected.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/22555.jpg,What is the difference between the illustration of Romance and Romance II?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/41583.jpg,What is clever about the logo of the company?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/66882.jpg,Describe the sketches of the two mental illnesses drawn by the artist.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/34256.jpg,Name the road that passes over the river.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/36455.jpg,What is the total price for the two cars listed here?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/71242.jpg,List the steps the user should take to reach Goodwin ave by following the arrows.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/53779.jpg,How does the background of the top left quote relate to the quote itself?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/49873.jpg,List the selections made by the user in this application.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/7741.jpg,Describe the appearance of the person related the news from Gambia and Tanzania.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/65093.jpg,"What do you require to ""Bake Bread"" in this game?",app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/22125.jpg,Highlight the price of the room with separate beds.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/20685.jpg,Which english letter is closest to the pattern of the Cycle Chart?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/45752.jpg,Outline the visual features of the coin in the listing.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/55637.jpg,Identify the day and date which has predicted cloud cover.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/48666.jpg,Rank the equalizer bands in the descending order of their strength chosen by the user.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/16068.jpg,What is the unit of distance and speed selected by the user?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/11301.jpg,Highlight the role of the down and up arrows in the shown forecast.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/7352.jpg,"Describe the cover of the book written by ""EB White"".",app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/58715.jpg,Identify the exercise and describe the goal in the context of that exercise.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/19563.jpg,Mention the title of the photo with flying animals.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/711.jpg,Identify the song in which the band members are posing with a music instrument.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/57396.jpg,How many times has the user drank water today?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/68758.jpg,List the words formed by all the grafitti stickers.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/32119.jpg,Mention the FM which shows three people enjoying in the background.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/6089.jpg,"Highlight the location of the two emojis that express ""missing someone"" emotion.",app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/47785.jpg,Which category filters have shades of blue to indicate them?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/62122.jpg,List the message in the GIFs with cartoon characters?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/17812.jpg,Describe the profile name and picture of the user with no upvotes.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/58308.jpg,Highlight the podcast with the different poster than the remaining ones.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/43844.jpg,Which button has the lowest number of items inside the 3x3 grid?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/28304.jpg,Mention the colors that indicate the winner in the spin wheel?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/14775.jpg,Calculate the price for 2 Nights for 2 Adults in the least rated hotel.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/64482.jpg,Mention the name of the teams whose logos are circular.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/6219.jpg,Describe the profile picture of the person who paid Tina.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/59312.jpg,Mention the role of the main figure in the context of the article.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/39025.jpg,Answer the question posed in the mobile screenshot.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/67562.jpg,Which race has more wooden boxes displayed in the thumbnail?,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/62181.jpg,Describe the profile picture of the user.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/47274.jpg,Highlight the settings that are switched off by the user.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/app_images/15526.jpg,Name the characters with big ears.,app
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_13191.png,Identify the stock that experiences a decrease in its value.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_9758.png,"Describe the cover of the book under the ""currently reading"" section.",web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_13542.png,Summarize the logos of the teams that are playing against each other at 4:30am.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_8861.png,List the words that are highlighted in yellow.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_60.png,Tell the significance of the crown symbol in the advertisement.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5560.png,Which items have experienced a price drop?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_8078.png,Highlight the subscription feature that displays a star icon on the screen of the digital item.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_8440.png,How many artists are shown in the poster of the related article released 4 weeks ago?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_12855.png,What is clever about the logo of the company?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_9945.png,To which group or profession does the individual in the central figure most likely belong?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5171.png,What is unusual about the central image in the context of the article?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_13009.png,Read the title of the article which shows 2 people in the split screen teaser figure.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_754.png,What is the jersey number of the player wearing white pants?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_7189.png,How does the symbol beneath the magnifying glass relate to the article?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_12275.png,Mention the jersey number of the player without helmet.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_14598.png,What can we infer about the person in the main illustration image?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5908.png,What did the unicorn say to the insect in the top right section of the post?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_2861.png,Indicate the letters of the company in green and black color font.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_12986.png,Describe the characters in the poster for the application that allows you to make virtual background.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_15027.png,What does the main figure highlight in the context of the article?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_10598.png,Name the country whose portrait has a group of people on the road.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5664.png,Please provide a list of words or characters that are highlighted in red in the article.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_242.png,How is the book's cover page related to its title?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_4190.png,What is the unique about the glasses worn by the cartoon character?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_1162.png,How is the logo of the company related to its name?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_1200.png,List all the dialogues from the person in the red dress say to the person with green eyes in the comic.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_11290.png,Catalog the product names with the color of their packaging.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_7934.png,What is the relation between the two people standing together in the advertisement?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_6430.png,"Rank ""Circle Size"", ""Accuracy"" and ""Star Rating"" in the ascending order of their bar lengths.",web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_4233.png,Which show has an animal with tentacles as its cover?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5065.png,Retrieve all the words with white font on a red background.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5097.png,What is the name of the user with a rose in their profile picture?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_9445.png,How does the main illustration figure relate to the context of the article?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5725.png,How does the image in the pop-up relate to its message?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_10624.png,What is clever about the logo of the company that can find restaurants?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_1580.png,What does the person with long hair say to the animal?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_11329.png,Which story can be read without subscription under Today's pick?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_13489.png,Extract the span of words that are underlined at the top of the website.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_10187.png,Detail the trend of SJR 2022 as shown in the image.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_6439.png,Name the company on the sportperson's wear.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5520.png,What is unusual about the award with a person's face with glasses?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_11273.png,Name the products which share the same color in packaging.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_13826.png,Tell the jersey number of the person defending against the player with the basketball.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_3725.png,What is clever about the logo of the article hosting app?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_1720.png,Create a list of settings selected by the user.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_14637.png,Extract the word enclosed in the dashed blue box.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_6931.png,Give the jersey number of the leftmost player on the ground from the white team.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_5434.png,Catalog all the words that are underlined and bolded.,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_7787.png,What is written in the panel with the dark background?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/web_images/screenshot_9812.png,What is written on the tyres of the car?,web
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/40436.jpeg,What has happened to the unemployment of men and women since 2009?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/10843.jpeg,State the difference in the proportion of the people who keep a 2 meter distance from others in Ontario and Prairies.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/35062.jpeg,Highlight the context in which the apple's image is used in the pamphlet.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/35609.jpeg,Extract the total population in percentage of the continents highlighted in the shades of orange and red.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41134.jpeg,"List China's worldwise investment in gold, housing, and electricity.",infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/10068.jpeg,"Which drugs have lesser proportion in ""Used more frequently"" in comparison to ""Used less frequently""?",infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/33051.jpeg,List all the states marked in the purple color in the map.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/31797.jpeg,"Give all the grains mention in the cell for the population that has degree equivalent or higher and earns more 50,000 euros.",infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41883.jpeg,Highlight the total percentage of population in UAE Nationals including Expatriates that follow the sport illustrated in the brown and pink color.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/43386.jpeg,Catalog the years in which the U.S. team did not win the gold medal.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/10971.jpeg,Which countries have had a non-zero containment index that lies between 85-100?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/10988.jpeg,Which month observed the highest actual spending?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/10822.jpeg,What is the message corresponding to the eyes symbol?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/39759.jpeg,Name the warrior with a goatee.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/20256.jpeg,List the items whose prices are illustrated in blue bars.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41986.jpeg,Tell the average of the player with a handlebar moustache.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41656.jpeg,Extract the message conveyed in the rectangular box with yellow background and grey border.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41181.jpeg,Catalog all the sectors represented in the yellow.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/44550.jpeg,In which sport is the length of the orange bar more than length of the blue bar?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/70131.jpeg,Highlight the message associated with the symbol of a desktop.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/43485.jpeg,Mention the word with the largest font size rendered in the vertical orientation.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/10858.jpeg,Give the total percentage of oil and palatability in the balanced diet composition.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/36264.jpeg,What do the white plates represent in the graphic?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/45002.jpeg,Which maths topics are mentiond in a rectangular box with yellow background?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/43139.jpeg,List the player names that are wearing white jersey.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41016.jpeg,Describe the symbol that illustrates the theme of Job Creation.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/45297.jpeg,"What is the name of the player from the team with the symbol that reads ""UK""?",infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/39964.jpeg,Which war has the second largest size of the poppy?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41082.jpeg,Mention the message depicted by the illustration that has a few trees and green mountains.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41364.jpeg,State the book besides the watch displaying 00:23,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/30925.jpeg,What is the percentage of the people who arrive at Union Street on bicycle?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/39787.jpeg,"Explain the status of the ""$200bn additional imports from China 25% tariff"" US measure.",infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/33670.jpeg,Mention the question asked by the smiling radish.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/70496.jpeg,Highlight the age group that is most and least affected by the disease in this report.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/20314.jpeg,Name the character which wore rimless glasses.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/40016.jpeg,List the countries whose vaccine coverage for population less than 5 was less than 50% in 1980 but more than 50% in 2010.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/32692.jpeg,What does the zig-zag pattern in the effects graph indicate?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/41144.jpeg,Give the name of the country for which no data is available.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/31414.jpeg,How many people like Dominos on the Facebook?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/35046.jpeg,State the message delivered by the symbol of the calculator.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/11535.jpeg,Highlight the states where the percent of positive tests is greater than 30%.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/44489.jpeg,How many litres does a single water bottle represent in the infographic?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/70512.jpeg,"Order the countries Spain, Italy and Germany based on the number of cases by day 15 according to the graph.",infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/37037.jpeg,Extract the message which is illustrated by a bulb. ,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/70441.jpeg,On what day of the symptoms offset do the majority of the patients experience acute respiratory distress syndrome?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/20167.jpeg,Calculate the difference in the percent of respondents who have confidence and do not have confidence in Obama from the country with a doll in their stamp.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/35885.jpeg,What is represented by the pink sector of the pie chart?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/33199.jpeg,How many production methods are used under pour-over/drip category?,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/20074.jpeg,List the companies that are not aware of the user's work.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/infographics_images/33530.jpeg,Name the chemical conversation methods for food conversation.,infographics
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n06359193_5766.JPEG,Extract the filename for the image of a serious looking boy in orange t-shirt.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n07565083_10867.JPEG,Give the heading of the yellow sticker.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03476991_7171.JPEG,How much fluid ounces is present in the tube?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03857828_4301.JPEG,Mention the selected edge coupling.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2316283.jpg,What will happen if the person presses the button with their thumb?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n04376876_10655.JPEG,What is the span of words that is underlined?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03841143_16405.JPEG,Indicate the speed of the vehicle.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2357925.jpg,List two companies whose remote is beneath the topmost remote.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n02807133_5983.JPEG,Name the swim cap with two dolphins.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2319368.jpg,Mention the closest place to the dice.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03841143_16106.JPEG,Where is the needle pointing on the speedometer?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03958227_158.JPEG,What is utilized to highlight that the packet in easier to carry?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_000385.jpg,List the items on the bottom left blackboard that are highlighted with curvy underlines.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/VizWiz_train_000000017809.jpg,Highlight the color of the buttons for the option B and D.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2363945.jpg,Name the drink with banana flavor.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2336682.jpg,Highlight the usefulness of the yellow sign.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/3155.jpg,What is bolded with the chalk on the blackboard?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2348767.jpg,Highlight the number mentioned on a vase shaped background.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/713287.jpg,Which company's banner is advertised behind the fielder?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_929.jpg,Which letter is the smallest in the shop's name on the left?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/VizWiz_train_000000004474.jpg,List the words that are bolded in the instructions.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/VizWiz_train_000000019210.jpg,Give the option selected by the user.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03425413_21657.JPEG,Mention the text written on the green button.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/VizWiz_train_000000015629.jpg,"What do you use to open the item named ""Bonduelle""?",stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03314780_10569.JPEG,Highlight the weight of the item in the square box.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2343713.jpg,What is written above and below the arrow pointing towards the right?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/713508.jpg,Name the store with a flower logo.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2356201.jpg,"In the company's logo, which letter is unusally larger than the other letters?",stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/VizWiz_train_000000019524.jpg,What does the only button that is enclosed by a border read?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03075370_12250.JPEG,Extract the digit which is specifically highlighted on the packaging.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n04141975_29400.JPEG,What does the machine point at?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/1159607.jpg,What is displayed on the screen?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2333746.jpg,Mention the span of words that are written in the smallest font.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_001151.jpg,What is the id of the mobile which displays the world map?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2320208.jpg,How is the first letter of the bus service's name represented?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/61585.jpg,Name the player who is serving now.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03196217_2467.JPEG,"Which item has the id ""LTC-4627WC""?",stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/1093.jpg,What is likely to be the role of the person with the hat in the show?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2332790.jpg,Extract the word written inside the arrow.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_123.jpg,Where does the door lead to?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03425413_19839.JPEG,What is mentioned on the red sticker?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03916031_12561.JPEG,"Describe the bottle of the ""Remember Me"" perfume.",stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_000358.jpg,List the word and letters that are bolded on the chalkboard.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2358057.jpg,Name the food item which does not have green leaves in its filling.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2324713.jpg,How does the tag line relate to the cartoon besides it?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2321397.jpg,Give the letters that are highlighted in the red color.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2372732.jpg,Mention the text written on the tail of the plane.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_000835.jpg,Highlight the synergy between the motel name and its logo.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2358806.jpg,What is the main message of the board behind the person who is looking way from the camera?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_781.jpg,Which company has a circular design with blue radiance?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n07718472_4430.JPEG,What is written on the flipped board?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n04501370_675.JPEG,What is written on the machine that has its legs in a position that would be stop the incoming crowd?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2414438.jpg,Which way is the person with the umbrella going?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n02110341_7485.JPEG,What is interesting about the cake?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03873416_1460.JPEG,What is written by the person on the oar that is not originally printed on it?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2345368.jpg,Which book's cover has a pill between the teeth of the person?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2346613.jpg,List the boat names with their color.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2407563.jpg,What is the number of the driver's compartment?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2414128.jpg,Where does the minute hand lying on the clock?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2337220.jpg,Which number is held by the person wearing a denim jeans?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_600.jpg,What is the person on the advertisement suggesting?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n02823428_919.JPEG,Highlight the name of the bottle which is crossed out.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n04357314_13382.JPEG,Which letter has a leaf design over it?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/645.jpg,List the letters that are printed in green on the large truck.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n02769748_48483.JPEG,Explain the illustration on the bag.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n03742115_10621.JPEG,Name the company whose reflection can be seen on the glass.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2342209.jpg,Get the number of the boat with three yellow and one red round items hanging from it.,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/1159390.jpg,Is this train headed to MINES?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2361009.jpg,What are the repurcussions of not following the instruction?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/COCO_train2014_000000062745.jpg,What is amusing about the cake?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2344403.jpg,What is the id number mentioned on the tail box of the bike?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/img_772.jpg,Which way is B1/B3?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/n07248320_17701.JPEG,What does the number on the cover page represent?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/498236.jpg,Which letters are reflected on the water spilled on the ground?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/stvqa-images/2372118.jpg,What is the license plate number of the bus closest to the cars?,stvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020985.jpg,Figure out the words being spoken by the lady wearing a white swimming cap.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020570.jpg,What is written under the cow graphic?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/018996.jpg,Recognize the brand characterized by the overlapping yellow and red circles.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020628.jpg,"Identify the section of the image, split by the street sign, that contains a greater number of people by specifying the street name associated with that side.",estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/018872.jpg,What numbers are displayed to the right of the brand logo that includes a tree?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/018488.jpg,Determine the word obfuscated by the outfielder.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015654.jpg,Spot the text superimposed on top of a world map illustration.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/017429.jpg,What is written on the starburst?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020345.jpg,Explain the purpose of the text located between the two coat of arms.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/014690.jpg,Determine the shop name that appears against a backdrop resembling the color of the plant pot in the scene.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015940.jpg,"Mention the color of the building that displays the advertisement ""Coming Spring 2013..."".",estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019085.jpg,Read the text displayed on the building situated in front of the parked cars.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012999.jpg,What is the structure the person is passing by?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/014501.jpg,Provide your opinion on whether changing the switch's current position will activate the instrument.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015076.jpg,Determine the text written beneath the smaller sun emblem.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/017174.jpg,How to proceed to UTown Residence?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020163.jpg,Explain the role of the imagery in the broader context of the advertisement.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020938.jpg,State the text on either sides of the logo imprinted on the sign.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/011426.jpg,What does the sign enclosed by a blue border say?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012170.jpg,Mention the text written on the scroll.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012726.jpg,What is written within a rainbow design at the top of the banner?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013395.jpg,Get the characters written on the triangular tip of the direction pillar.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/014340.jpg,Read the text located adjacent to the second central tickmark.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/017683.jpg,List the options that are unmarked.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/018087.jpg,Count the visible depictions of the name of the music store in this image.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/018746.jpg,Find the text highlighted by a shape that aligns with the item it signifies.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020144.jpg,What is the advertisement displaying for the store that a woman is observing?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020205.jpg,Assess the significance of the showcased items in relation to the text written on them.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020709.jpg,Discuss the role of the illustration in reinforcing the message conveyed by the advertisement featured on the item held by the man.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015768.jpg,Identify the advertisement displayed on the window.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/016443.jpg,Which characters in the shop name are painted in yellow?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/016692.jpg,Find out the advertisement with text presented in two distinct color combinations of text and background.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/016881.jpg,Retrieve words from the image associated with the central term featured in the scroll graphic.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/017318.jpg,Determine the speed limit on this roadway.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019874.jpg,Which letter is the longest on the red board?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019982.jpg,Give the option that is highlighted in the bullet list.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020336.jpg,What is the connection between the graphic and the text in this logo?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020827.jpg,Elaborate on the role of the image within the larger context of the text presented in this infographic.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/011810.jpg,Pinpoint the shop number in front of which a scooter has been parked.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013403.jpg,How many letters are enclosed in a circle?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013789.jpg,Explain the color contrast in the shop's name and background.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015556.jpg,How do the objects in the image relate to the message of the post?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/016388.jpg,Arrange the words on display into groups based on their respective colors.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/017513.jpg,"Describe the shape that encompasses the word ""us.""",estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019851.jpg,What is the name of the court?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012322.jpg,Highlight the mistake that the driver has made in accordance with the parking rules.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013287.jpg,Provide a description of what is shown above the restaurant's name.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013968.jpg,Identify the sentences in the advertisement poster that convey a perspective transitioning from the interior to the exterior.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015388.jpg,Comment on what makes this book cover unique.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015512.jpg,Which letter serves a dual role as both a letter in a word and a part of a logo?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015698.jpg,List the words that are completely capitalized.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015913.jpg,Explain the relation between the house design and its name.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/016767.jpg,Give a detailed description of the logo belonging to the IT company that is visible within the image.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/018803.jpg,Describe the logo of the IT company displayed  in this image,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019231.jpg,Name the shop whose main door directly leads to the subway's entrance.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019252.jpg,List the letters that are cut off in the banner.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019933.jpg,What is written on a leg of the letter M?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020103.jpg,What is written immediately above the kangaroo sign?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020366.jpg,What does each circular object represent?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012671.jpg,Comment on the comical aspect of this image.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013063.jpg,Which way is the BBQ pit?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013317.jpg,Comment whether the action shown in the image aligns with the signage on the wall behind it.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013769.jpg,What is written inside the diamond shape stictching?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/015610.jpg,What is written on the glass in english?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/016168.jpg,Name the person holding the umbrella,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/016240.jpg,What would the first line read if we filter the letters in the red?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/016774.jpg,List the store names that can be seen on the building section between the two cars on the street.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/017618.jpg,Explain the irony captured in this image.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019390.jpg,Describe the uniqueness of this poster.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020413.jpg,Elucidate the distinctive feature of this signage.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/011476.jpg,Name the shop whose logo has a person posing wearing a wide hat.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012122.jpg,What makes the graphic in this image unique?,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012423.jpg,Locate the specific text on the banner that is related to the action being executed by the individual in the center of this image.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012781.jpg,"if the company name extends from ""on"" to ""speed 5"" on the fan regulator, what position corresponds to the subname ""Robin""?",estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/013997.jpg,Count the number of people depicted to be canoeing in this image.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/014429.jpg,Spot the numbers displayed in front of the panda stuffed toy.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/017439.jpg,Explain the message illustrated by the sticker.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/019411.jpg,Give the word that is followed by a tick sign.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020681.jpg,Highlight the words that are written in the hollow/outline font.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/020983.jpg,Extract the word written around the globe sticker on the jet's body.,estvqa
+https://textvision-data-quality.s3.us-west-1.amazonaws.com/estvqa-images/012562.jpg,Which word in the shop's name is outlined with green lights?,estvqa
