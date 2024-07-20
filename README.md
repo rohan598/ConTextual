@@ -25,10 +25,14 @@ For more details, please refer to the project page with dataset exploration and 
 </p>
 
 ## 💥 News 💥
-- **[2024.05.17]** GPT4o outshines GPT4V (prior SOTA) by 15% 😲 yet still trails humans by 7% — room for growth remains!
-- **[2024.05.01]** ConTextual is accepted at [ICML 2024](https://icml.cc/virtual/2024/poster/34112)🎉
-- **[2024.04.12]** ConTextual is accepted for **Oral presentation** at 3rd Vision Datasets Understanding ([VDU](https://sites.google.com/view/vdu-cvpr24/)) workshop at CVPR 2024! 
-- **[2024.04.12]** ConTextual is accepted at 1st Evaluation of Generative Foundation Models ([EVGENFM](https://evgenfm.github.io/)) workshop at CVPR 2024! 
+- **[2024.07.20]** Video Presentation of ConTextual is out, https://www.youtube.com/watch?v=meVkolyVIBc!
+- **[2024.07.18]** GPT4o-mini is just 1% behind GPT4o, even though considerably smaller in size!
+- **[2024.06.20]** Claude-3.5-Sonnet outperforms Claude-3-Opus by 19% 😲
+- **[2024.05.18]** GPT4o sets the new SOTA 62.8% 🥳 yet still trails humans by 7% — room for growth remains!
+- **[2024.05.18]** Gemini-1.5-Flash and Gemini-1.5-Pro outperform the prior SOTA (GPT4v) by 9% and 5% respectively.
+- **[2024.05.01]** ConTextual is accepted at [ICML 2024](https://icml.cc/virtual/2024/poster/34112)🎉 main conference and [DMLR workshop](https://icml.cc/virtual/2024/workshop/29961), ICML 2024.
+- **[2024.04.12]** ConTextual is accepted as **Spotlight** at 1st Evaluation of Generative Foundation Models ([EVGENFM](https://evgenfm.github.io/)) workshop at CVPR 2024! 
+- **[2024.04.12]** ConTextual is accepted at 3rd Vision Datasets Understanding ([VDU](https://sites.google.com/view/vdu-cvpr24/)) workshop at CVPR 2024! 
 - **[2024.03.08]** [LLaVA-Next-34B](https://llava-vl.github.io/blog/2024-01-30-llava-next/) pushes the open-source LMM SOTA to 36.8👏 Less than 4% behind Gemini-Pro-Vision😮 
 - **[2024.03.05]** Preliminary analysis on Claude 3 Opus. It also fails on the instances where the best performing model GPT4V fails 👀  Stay tuned for the detailed analysis! [Tweet](https://twitter.com/hbXNov/status/1765268842476077453)
 - **[2024.03.05]** A [Blog](https://huggingface.co/blog/leaderboard-contextual) detailing the ConTextual dataset has been published in collaboration with HuggingFace. Thank you [Clementine Fourrier](https://twitter.com/clefourrier/status/1765042903112446303) for the support!
@@ -83,23 +87,27 @@ For more details, you can find our project page [here](https://con-textual.githu
 | **#** | **Model**                     | **Method** | **Source**                                                   | **Date**   | **ALL**  | **Time** | **Shop** | **Nav** | **Abs** | **App** | **Web** | **Info** | **Misc NS** 
 | ----- | ----------------------------- | ---------- | ------------------------------------------------------------ | ---------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | -     | **Human Performance\***       | -          | [Link](https://arxiv.org/abs/2401.13311)                    | 2024-01-24 | **69.6** | 64.0    | 64.0   | 73.5    | 75.5    | 64.0    | 58.0   | 72.0    | 78.0    |
-| 1     | **GPT-4o 🥇**     | LMM 🖼️      | [Link](https://openai.com/index/hello-gpt-4o/)                     | 2024-01-24 | **62.8** | 32.0    | 70.0    | 60.0    | 98.0    | 72.0    | 62.0    | 48.0    | 64.7 |
-| 2     | **Gemini-1.5-Flash-Preview-0514 🥈**     | LMM 🖼️      | [Link](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)                     | 2024-01-24 | **56.0** | 30.0    | 51.0    | 52.1   | 84.0    | 63.0    | 63.2    | 42.8    | 61.7 |
-| 3     | **Gemini-1.5-Pro-Preview-0514  🥉**     | LMM 🖼️      | [Link](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)                     | 2024-01-24 | **52.4** | 24.0    | 46.9    | 39.6    | 84.0    | 45.8    | 59.2    | 43.8    | 64.0|
-| 4     | **GPT-4V(ision)**     | LMM 🖼️      | [Link](https://openai.com/research/gpt-4v-system-card)                     | 2024-01-24 | **47.4** | 18.0    | 54.0    | 48.0    | 100.0    | 48.0    | 42.0    | 28.0    | 48.0 |
-| 5     | **Gemini-Pro-Vision**              | LMM 🖼️      | [Link](https://arxiv.org/abs/2312.11805)                     | 2024-01-24 | **40.2** | 16.0    | 32.7    | 28.6    | 65.3    | 44.9    | 43.8    | 20.0    | 52.8    |
-| 6     | **LLaVA-Next-34B**              | LMM 🖼️      | [Link](https://llava-vl.github.io/blog/2024-01-30-llava-next/)                    | 2024-01-24 | **36.8** | 10.0    | 30.6    | 36.0    | 66.0    | 36.0    | 28.0    | 12.0    | 51.3    |
-| 7     | **ShareGPT-4V-7B**              | LMM 🖼️      | [Link](https://arxiv.org/abs/2311.12793)                    | 2024-01-24 | **22.6** | 0.0    | 16.0    | 20.0    | 28.6    | 20.0    | 20.0    | 14.0    | 37.7    |
-| 8     | **GPT-4 w/ Layout-aware OCR + Caption**                | LLM 👓      | [Link](https://arxiv.org/abs/2303.08774) | 2024-01-24 | **22.2** | 6.0    | 16.0    | 24.0    | 57.1    | 14.0    | 18.0    | 8.0    | 27.3    | 
-| 9     | **Qwen-VL**               | LMM 🖼️      | [Link](https://arxiv.org/abs/2308.12966) | 2024-01-24 | **21.8** | 4.0    | 20.0    | 24.0    | 53.1    | 6.0    | 18.0    | 14.0    | 27.3    | 
-| 10     | **LLaVA-1.5B-13B**           | LMM 🖼️      | [Link](https://arxiv.org/abs/2310.03744)                     | 2024-01-24 | **20.8** | 4.0    | 10.0    | 18.0    | 44.9    | 16.0    | 26.0    | 4.0    | 29.7    |
-| 11     | **mPLUG-Owl-v2-7B**   | LMM 🖼️    | [Link](https://arxiv.org/abs/2311.04257)                     | 2024-01-24 | **18.6** | 4.0    | 8.0    | 24.0    | 32.7    | 20.0    | 10.0    | 12.0    | 26.0    | 
-| 12     | **GPT-4 w/ Layout-aware OCR**  | LLM 👓    | [Link](https://arxiv.org/abs/2303.08774)                     | 2024-01-24 | **18.2** | 8.0    | 20.0    | 18.0    | 34.7    | 10.0    | 16.0    | 16.0    | 20.7    | 
-| 13    | **GPT-4 w/ OCR**    | LLM 👓     | [Link](https://arxiv.org/abs/2303.08774)                     | 2024-01-24 | **15.9** | 4.0    | 10.0    | 14.0    | 30.6    | 8.0    | 16.0    | 28.6    | 16.9    | 
-| 14    | **LLaVAR-13B** | LMM 🖼️      | [Link](https://arxiv.org/abs/2306.17107)                     | 2024-01-24 | **14.9** | 10.0    | 16.0    | 6.0    | 44.9    | 8.0    | 10.0   | 6.0    | 16.7    | 
-| 15    | **BLIVA**             | LMM 🖼️      | [Link](https://arxiv.org/abs/2308.09936)                     | 2024-01-24 | **10.3** | 2.0    | 4.0    | 14.0   | 24.5    | 4.0    | 8.0   | 4.0    | 14.7    |
-| 16    | **InstructBLIP-Vicuna-7B**               | LMM 🖼️      | [Link](https://arxiv.org/abs/2305.06500) | 2024-01-24 | **9.7** | 2.0    | 4.0     | 16.0    | 20.0    | 6.0    | 12.0    | 2.1    | 12.0    | 
-| 17    | **Idefics-9B**             | LMM 🖼️      | [Link](https://huggingface.co/blog/idefics)                     | 2024-01-24 | **7.7** | 4.0    | 2.0    | 12.0    | 12.0    | 0.0    | 6.0    | 2.0    | 13.3    | 
+| 1     | **GPT-4o 🥇**     | LMM 🖼️      | [Link](https://openai.com/index/hello-gpt-4o/)                     | 2024-05-18 | **62.8** | 32.0    | 70.0    | 60.0    | 98.0    | 72.0    | 62.0    | 48.0    | 64.7 |
+| 2     | **GPT-4o-mini-2024-07-18 🥈**     | LMM 🖼️      | [Link](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)                     | 2024-07-18 | **61.7** | 22.0    | 62.0    | 62.0   | 98.0    | 72.0    | 64.0    | 42.0    | 67.3 |
+| 3     | **Claude-3.5-Sonnet-2024-06-20 🥉**     | LMM 🖼️      | [Link](https://www.anthropic.com/news/claude-3-5-sonnet)                     | 2024-07-18 | **57.5** | 22.0    | 52.0    | 66.0   | 96.0    | 68.0    | 64.0    | 44.0    | 56.7 |
+| 4     | **Gemini-1.5-Flash-Preview-0514**     | LMM 🖼️      | [Link](https://openai.com/research/gpt-4v-system-card)                     | 2024-05-18 | **56.0** | 30.0    | 51.0    | 52.1   | 84.0    | 63.0    | 63.2    | 42.8    | 61.7 |
+| 5     | **Gemini-1.5-Pro-Preview-0514**     | LMM 🖼️      | [Link](https://openai.com/research/gpt-4v-system-card)                     | 2024-05-18 | **52.4** | 24.0    | 46.9    | 39.6    | 84.0    | 45.8    | 59.2    | 43.8    | 64.0|
+| 6     | **GPT-4V(ision)**     | LMM 🖼️      | [Link](https://openai.com/research/gpt-4v-system-card)                     | 2024-01-24 | **47.4** | 18.0    | 54.0    | 48.0    | 100.0    | 48.0    | 42.0    | 28.0    | 48.0 |
+| 7     | **Gemini-Pro-Vision**              | LMM 🖼️      | [Link](https://arxiv.org/abs/2312.11805)                     | 2024-01-24 | **40.2** | 16.0    | 32.7    | 28.6    | 65.3    | 44.9    | 43.8    | 20.0    | 52.8    |
+| 8     | **Claude-3-Opus-2024-02-29**              | LMM 🖼️      | [Link](https://www.anthropic.com/news/claude-3-family)                     | 2024-03-05 | **38.1** | 18.0    | 32.0    | 34.0    | 68.0    | 44.0    | 38.0    | 18.0    | 44.7    |
+| 9     | **LLaVA-Next-34B**              | LMM 🖼️      | [Link](https://llava-vl.github.io/blog/2024-01-30-llava-next/)                    | 2024-03-05 | **36.8** | 10.0    | 30.6    | 36.0    | 66.0    | 36.0    | 28.0    | 12.0    | 51.3    |
+| 10     | **LLaVA-Next-13B**              | LMM 🖼️      | [Link](https://llava-vl.github.io/blog/2024-01-30-llava-next/)                    | 2024-03-05 | **30.3** | 0.0    | 28.6    | 32.0    | 60.0    | 18.0    | 32.0    | 10.0    | 40.4    |
+| 11     | **ShareGPT-4V-7B**              | LMM 🖼️      | [Link](https://arxiv.org/abs/2311.12793)                    | 2024-01-24 | **22.6** | 0.0    | 16.0    | 20.0    | 28.6    | 20.0    | 20.0    | 14.0    | 37.7    |
+| 12     | **GPT-4 w/ Layout-aware OCR + Caption**                | LLM 👓      | [Link](https://arxiv.org/abs/2303.08774) | 2024-01-24 | **22.2** | 6.0    | 16.0    | 24.0    | 57.1    | 14.0    | 18.0    | 8.0    | 27.3    | 
+| 13     | **Qwen-VL**               | LMM 🖼️      | [Link](https://arxiv.org/abs/2308.12966) | 2024-01-24 | **21.8** | 4.0    | 20.0    | 24.0    | 53.1    | 6.0    | 18.0    | 14.0    | 27.3    | 
+| 14     | **LLaVA-1.5B-13B**           | LMM 🖼️      | [Link](https://arxiv.org/abs/2310.03744)                     | 2024-01-24 | **20.8** | 4.0    | 10.0    | 18.0    | 44.9    | 16.0    | 26.0    | 4.0    | 29.7    |
+| 15     | **mPLUG-Owl-v2-7B**   | LMM 🖼️    | [Link](https://arxiv.org/abs/2311.04257)                     | 2024-01-24 | **18.6** | 4.0    | 8.0    | 24.0    | 32.7    | 20.0    | 10.0    | 12.0    | 26.0    | 
+| 16     | **GPT-4 w/ Layout-aware OCR**  | LLM 👓    | [Link](https://arxiv.org/abs/2303.08774)                     | 2024-01-24 | **18.2** | 8.0    | 20.0    | 18.0    | 34.7    | 10.0    | 16.0    | 16.0    | 20.7    | 
+| 17    | **GPT-4 w/ OCR**    | LLM 👓     | [Link](https://arxiv.org/abs/2303.08774)                     | 2024-01-24 | **15.9** | 4.0    | 10.0    | 14.0    | 30.6    | 8.0    | 16.0    | 28.6    | 16.9    | 
+| 18    | **LLaVAR-13B** | LMM 🖼️      | [Link](https://arxiv.org/abs/2306.17107)                     | 2024-01-24 | **14.9** | 10.0    | 16.0    | 6.0    | 44.9    | 8.0    | 10.0   | 6.0    | 16.7    | 
+| 19    | **BLIVA**             | LMM 🖼️      | [Link](https://arxiv.org/abs/2308.09936)                     | 2024-01-24 | **10.3** | 2.0    | 4.0    | 14.0   | 24.5    | 4.0    | 8.0   | 4.0    | 14.7    |
+| 20    | **InstructBLIP-Vicuna-7B**               | LMM 🖼️      | [Link](https://arxiv.org/abs/2305.06500) | 2024-01-24 | **9.7** | 2.0    | 4.0     | 16.0    | 20.0    | 6.0    | 12.0    | 2.1    | 12.0    | 
+| 21    | **Idefics-9B**             | LMM 🖼️      | [Link](https://huggingface.co/blog/idefics)                     | 2024-01-24 | **7.7** | 4.0    | 2.0    | 12.0    | 12.0    | 0.0    | 6.0    | 2.0    | 13.3    | 
 
 ### Accuracy scores on the Val subset (100 samples):
 
@@ -135,6 +143,11 @@ Some notations in the table:
   - **Web:** Web Usage
   - **Info:** Infographic
   - **Misc NS:** Miscellaneous Natural Scenes
+
+### Models to be added to the Leaderboard
+- LLaVA with LLama-3 (8B) and Qwen-1.5 (72B/110B): [Link](https://llava-vl.github.io/blog/2024-05-10-llava-next-stronger-llms/)
+- LLaVA-NeXT-Interleave: [Link](https://arxiv.org/pdf/2407.07895)
+- Cambrian-1: [Link](https://cambrian-mllm.github.io/)
 
 ## 📖 Dataset Usage
 
